@@ -37,6 +37,9 @@ influencer-analytics/
 
 ## 📊 Live Dashboard
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/natthaorn.lapprasitsuk/viz/InfluencerMarketingAnalytics-InstagramROIDashboard/Dashboard1)
+- Example Screen <img width="1452" height="734" alt="Screenshot 2569-06-25 at 12 03 05" src="https://github.com/user-attachments/assets/dc068651-bf8d-4e98-aabc-0e5a48e6a2c9" />
+
+
 
 ## 📄 Dataset
 - Source: [Top Instagram Influencers (Cleaned)](https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned) — Kaggle
